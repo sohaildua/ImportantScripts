@@ -1,0 +1,7 @@
+
+
+  pip install virtualenv
+  python -m venv {anyname}
+  
+  source py_env/Scripts/activate
+  
